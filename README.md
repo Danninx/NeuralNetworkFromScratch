@@ -42,3 +42,8 @@ where p<sub>i</sub> represents the i<sup>th</sup> pixel in a given image.
 ***
 
 ## Notes
+This project is going to, for the most part, follow along with the 
+[YouTube series by sentdex](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3), 
+and as such may not followed structured project. For example, the series starts with building single neurons, and as such the project will also do that, but it 
+may be deleted later for a more clean, readable approach when more steps are added. Certain commits may be used not
+necessarily for adding important features, but as a sort of "save point" when I'm switching between computers or videos.
