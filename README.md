@@ -17,7 +17,7 @@ to stress a "library free" syntax that forces a raw understanding of neural netw
 ## About the MNIST dataset
 
 The dataset can be downloaded 
-[here](https://www.kaggle.com/datasets/hojjatk/mnist-dataset),
+[here](https://drive.google.com/file/d/1eEKzfmEu6WKdRlohBQiqi3PhW_uIVJVP/view),
 and contains:
 
 - 60,000, 28x28 pixel images of hand-drawn images. This set of images is called the "training" set, and each image contains a label with its associated number for training purposes.
