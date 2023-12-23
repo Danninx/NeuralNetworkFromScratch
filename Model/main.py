@@ -1,4 +1,5 @@
-# Single Neuron
+import numpy as np
+
 inputs = [1, 2, 3, 2.5]
 weights = [
     [0.2, 0.8, -0.5, 1.0],
@@ -16,6 +17,6 @@ output = []
 for i in range(len(weights)):
     w = weights[i]
     b = bias[i]
-    output.append(sum([inputs[j]*w[j] for j in range(len(inputs))]) + b)
+    output.append(np.dot(inputs, w) + b)
 
 print(output)
